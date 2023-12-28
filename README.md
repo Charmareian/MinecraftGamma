@@ -1,3 +1,5 @@
+<p># Minecraft Gamma</p>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">Minecraft Gamma is an overhaul mod for Release 1.2.5. It's meant to be a culmination of all great aspects of many versions of Minecraft, with a big focus on Beta. Think of it like a hybrid. Then there's some weird stuff. Feature list below.&nbsp;</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Game Modes]</span></p>
@@ -12,10 +14,12 @@
 <p><span style="font-weight: 400;">-Mobs no longer burn in the sun and Spiders are always aggressive</span></p>
 <p><span style="font-weight: 400;">(Creative)</span></p>
 <p><span style="font-weight: 400;">-Hotbar is now empty by default&nbsp;</span></p>
-<p><span style="font-weight: 400;">-Flying speed has been increased&nbsp;</span><br /><br /><br /></p>
+<p><span style="font-weight: 400;">-Flying speed has been increased </span></p>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">[World Types]</span></p>
 <p><span style="font-weight: 400;">-Skylands, port of the Beta 1.6 unused Sky dimension</span></p>
-<p><span style="font-weight: 400;">-Alpha, port of Alpha 1.1.2_01 terrain&nbsp;</span><br /><br /><br /></p>
+<p><span style="font-weight: 400;">-Alpha, port of Alpha 1.1.2_01 terrain </span></p>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Biome Improvements]</span></p>
 <p><span style="font-weight: 400;">-Removed Oceans completely(May return in an ocean update at a much smaller scale)</span></p>
 <p><span style="font-weight: 400;">-Rivers are now slightly bigger and cut off less often&nbsp;</span></p>
@@ -39,7 +43,7 @@
 <p><span style="font-weight: 400;">-Added the Beta Savanna biome. They now have Deserts as a biome variant</span></p>
 <p><span style="font-weight: 400;">-Added the unused Beta Ice Desert as a main biome. They have snowy Shrublands(cold Savanna) as a biome variant&nbsp;</span></p>
 <p><span style="font-weight: 400;">-Added the Beta Rainforest</span></p>
-<p><span style="font-weight: 400;">-Added the Flooded Forest, based off of Infdev 415 terrain. Very watery, very hilly, with dense large oak trees throughout</span><br /><br /></p>
+<p><span style="font-weight: 400;">-Added the Flooded Forest, based off of Infdev 415 terrain. Very watery, very hilly, with dense large oak trees throughout</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Block Additions]</span></p>
 <p><span style="font-weight: 400;">-Pillow, crafted with 9 Feathers. Breaks instantly with your fist and protects you from all fall damage</span></p>
@@ -56,7 +60,8 @@
 <p><span style="font-weight: 400;">-TNT can now be crafted with Paper instead of Sand</span></p>
 <p><span style="font-weight: 400;">-Glass now drops when mined and can be mine faster</span></p>
 <p><span style="font-weight: 400;">-Rightclicking Cobblestone with a pickaxe turns it into Gravel, making Gravel renewable</span></p>
-<p><span style="font-weight: 400;">-4 Coarse Dirt can now be crafted with 2 Dirt and 2 Gravel. Coarse Dirt can be tilled back into Dirt with a Hoe, making Dirt renewable</span><br /><br /><br /></p>
+<p><span style="font-weight: 400;">-4 Coarse Dirt can now be crafted with 2 Dirt and 2 Gravel. Coarse Dirt can be tilled back into Dirt with a Hoe, making Dirt renewable</span></p>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Item Additions]</span></p>
 <p><span style="font-weight: 400;">-Added Chain, allowing Chain Armor to be crafted</span></p>
 <p><span style="font-weight: 400;">-Added Ender Tears, a rare drop from Enderman. Combine tears with items to repair them</span></p>
@@ -77,11 +82,12 @@
 <p><span style="font-weight: 400;">-Blaze now naturally spawn in the Nether</span></p>
 <p><span style="font-weight: 400;">-Magma Cubes are now 10 times more common(Which is still uncommon)</span></p>
 <p><span style="font-weight: 400;">-Enderman now teleport randomly upon getting hit, they deal more damage, they're faster and teleport more erratically</span></p>
-<p><span style="font-weight: 400;">-Squid now have a 1/100 chance of dropping a Fishing Rod(For Peaceful players)</span><br /><br /><br /></p>
+<p><span style="font-weight: 400;">-Squid now have a 1/100 chance of dropping a Fishing Rod(For Peaceful players)</span></p>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Fishing Improvements]</span></p>
 <p><span style="font-weight: 400;">-Fishing now has its own loot tables of Fish, Trash and Treasure instead of only giving Raw Fish</span></p>
 <p><span style="font-weight: 400;">-You can now fish in the Nether&nbsp;</span></p>
-<p><span style="font-weight: 400;">-Fishing now gives Points based on loot table&nbsp;</span><br /><br /></p>
+<p><span style="font-weight: 400;">-Fishing now gives Points based on loot table</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Hardcore Thrist]</span></p>
 <p><span style="font-weight: 400;">-Drinking unpurified water gives you the Thirst potion effect, disabling natural healing</span></p>
@@ -90,7 +96,8 @@
 <p><span style="font-weight: 400;">-Various Drinks can be made by combining a fruit/vegetable with Sugar and Purified Water(Pumpkins only require an Empty Bottle)</span></p>
 <p><span style="font-weight: 400;">-A Flask can be crafted with 6 Leather and 1 Iron. It can be filled from a water source and has 8 uses</span></p>
 <p><span style="font-weight: 400;">-A Flask can be purified with a Powder Filter, crafted with 3 Paper and 1 Gunpowder</span></p>
-<p><span style="font-weight: 400;">-You can drink Milk to restore Thirst</span><br /><br /><br /></p>
+<p><span style="font-weight: 400;">-You can drink Milk to restore Thirst</span></p>
+<p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Other]</span></p>
 <p><span style="font-weight: 400;">-Furnaces now accept many new fuel sources</span></p>
 <p><span style="font-weight: 400;">-Gold Tools are now a tier between Iron and Diamond. Gold is now required to mine Diamonds</span></p>
