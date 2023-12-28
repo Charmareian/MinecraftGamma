@@ -42,6 +42,7 @@ Minecraft Gamma is an overhaul mod for Release 1.2.5. It's meant to be a culmina
 
 
 
+
 [Biome Improvements]
 -Removed Oceans completely(May return in an ocean update at a much smaller scale)
 -Rivers are now slightly bigger and cut off less often 
