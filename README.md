@@ -3,9 +3,13 @@
 Minecraft Gamma is an overhaul mod for Release 1.2.5. It's meant to be a culmination of all great aspects of many versions of Minecraft, with a big focus on Beta. Think of it like a hybrid. Then there's some weird stuff. Feature list below. 
 
 [Game Modes]
+
 (Overall)
+
 -XP and Enchanting has been removed
+
 -Food and drinks have variable consumption times 
+
 
 (Survival)
 -Hunger has been removed
