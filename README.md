@@ -33,9 +33,13 @@ Minecraft Gamma is an overhaul mod for Release 1.2.5. It's meant to be a culmina
 
 
 
+
 [World Types]
+
 -Skylands, port of the Beta 1.6 unused Sky dimension
+
 -Alpha, port of Alpha 1.1.2_01 terrain 
+
 
 
 [Biome Improvements]
