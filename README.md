@@ -7,20 +7,30 @@ Minecraft Gamma is an overhaul mod for Release 1.2.5. It's meant to be a culmina
 (Overall)
 
 -XP and Enchanting has been removed
+
 -Food and drinks have variable consumption times 
 
 
 (Survival)
+
 -Hunger has been removed
+
 -Food directly heals the player after the eating animation is complete
 
+
 (Hardcore)
+
 -Hunger returns in addition to Thirst 
+
 -Mobs no longer burn in the sun and Spiders are always aggressive
 
+
 (Creative)
+
 -Hotbar is now empty by default 
+
 -Flying speed has been increased 
+
 
 
 [World Types]
