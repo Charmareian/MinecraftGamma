@@ -58,7 +58,7 @@
 <p><span style="font-weight: 400;">-Sponges are now functional</span></p>
 <p><span style="font-weight: 400;">-Leaves now only have a 1 in 4 chance of damaging Tools</span></p>
 <p><span style="font-weight: 400;">-TNT can now be crafted with Paper instead of Sand</span></p>
-<p><span style="font-weight: 400;">-Glass now drops when mined and can be mine faster</span></p>
+<p><span style="font-weight: 400;">-Glass now drops when mined and can be mined faster</span></p>
 <p><span style="font-weight: 400;">-Rightclicking Cobblestone with a pickaxe turns it into Gravel, making Gravel renewable</span></p>
 <p><span style="font-weight: 400;">-4 Coarse Dirt can now be crafted with 2 Dirt and 2 Gravel. Coarse Dirt can be tilled back into Dirt with a Hoe, making Dirt renewable</span></p>
 <p>&nbsp;</p>
