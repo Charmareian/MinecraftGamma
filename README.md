@@ -106,4 +106,5 @@
 <p><span style="font-weight: 400;">-Mobs now have their own Score values. Score displays over the player&rsquo;s inventory</span></p>
 <p><span style="font-weight: 400;">-Dropped items now render in 3D. All items render in 2D on fast graphics</span></p>
 <p><span style="font-weight: 400;">-Readded the Beta Nightmare sleeping mechanic</span></p>
+<p><span style="font-weight: 400;">-Ghast fireball explosions no longer destroy blocks</span></p>
 <p>&nbsp;</p>
