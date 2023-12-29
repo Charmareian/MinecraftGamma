@@ -17,7 +17,7 @@
 <p><span style="font-weight: 400;">-Flying speed has been increased </span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">[World Types]</span></p>
-<p><span style="font-weight: 400;">-Skylands, port of the Beta 1.6 unused Sky dimension</span></p>
+<p><span style="font-weight: 400;">-Skylands, port of the unused Beta 1.6 Sky dimension</span></p>
 <p><span style="font-weight: 400;">-Alpha, port of Alpha 1.1.2_01 terrain </span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Biome Improvements]</span></p>
