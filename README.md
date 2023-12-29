@@ -18,7 +18,7 @@
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">[World Types]</span></p>
 <p><span style="font-weight: 400;">-Skylands, port of the unused Beta 1.6 Sky dimension</span></p>
-<p><span style="font-weight: 400;">-Alpha, port of Alpha 1.1.2_01 terrain </span></p>
+<p><span style="font-weight: 400;">-Alpha, port of terrain featured in Alpha 1.1.2_01</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Biome Improvements]</span></p>
 <p><span style="font-weight: 400;">-Removed Oceans completely(May return in an ocean update at a much smaller scale)</span></p>
